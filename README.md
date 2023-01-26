@@ -16,7 +16,7 @@ remind_me()
 
 
 ### cheat function
-This function helps you to cheat on the assignment! Merely specify the number of the exercise you are struggling with (e.g., 1) when calling the function and the correct answer will be returned! Unfortunately, however, the function is limited to providing solutions for exercise 1, 16 and 17.
+This function helps you to cheat on the assignment! Merely specify the number of the exercise of assignment 3.1 you are struggling with (e.g., 1) when calling the function and the correct answer will be returned! Unfortunately, however, the function is limited to providing solutions for exercise 1, 16 and 17.
 Try it out this way:
 
 ```{r}
